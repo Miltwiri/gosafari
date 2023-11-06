@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bdf54c78-4d00-41e3-9012-ec0800d77736"
+      }
+    },
+    "owner": "mwirabua"
   }
 }
